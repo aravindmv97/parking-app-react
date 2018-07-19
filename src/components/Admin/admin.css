@@ -1,0 +1,46 @@
+button{
+	background-color: white;
+	color: blue;
+	border: 2px solid blue;
+	border-radius: 6px;
+	height:40px;
+	width:170px;
+}
+
+input{
+	width:50px;
+}
+.add_part{
+	margin-top: 10px;
+	border:0.5px solid black;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.add{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.container{
+	margin-top: 20px;
+	border:0.5px solid #888888;
+	border-radius: 15px;
+	padding: 15px;
+	box-shadow: 5px 10px #888888;
+}
+
+.form-container
+{
+	width: 400px;
+}
+
+.save_button{
+	background-color: #fff;
+	color: green;
+	border-color: #ccc;
+	padding: 6px 12px;
+	border-radius: 2px;
+	border: 0.5px;
+
+}
